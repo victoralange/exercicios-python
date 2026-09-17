@@ -30,3 +30,4 @@ Exemplo:
 9. Exercício 9 - Peça a média de um estudante e classifique: 6 ou mais é Aprovado; de 4 a 5,9 é Recuperação; abaixo de 4 é Reprovado.
 10. Exercício 10 - Peça a idade de uma pessoa e informe se ela já pode votar. A idade mínima é 16 anos.
 11. Exercício 11 - Exiba os números de 1 a 10, um por linha.
+12. Exercício 12 - Peça números ao usuário e vá somando. Quando ele digitar 0, pare e exiba a soma.
