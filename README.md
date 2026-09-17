@@ -25,3 +25,4 @@ Exemplo:
 4. Exercício 4 - Peça uma temperatura em graus Celsius e converta para Fahrenheit. A fórmula é F = C × 9 / 5 + 32.
 5. Exercício 5 - Peça o preço de um produto e a quantidade comprada. Exiba o valor total, com duas casas decimais.
 6. Exercício 6 - Peça um número e informe se ele é par ou ímpar.
+7. Exercício 7 - Peça dois números e exiba qual é o maior. Se forem iguais, informe isso.
