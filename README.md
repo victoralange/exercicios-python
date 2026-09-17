@@ -19,3 +19,4 @@ Exemplo:
 > python exercicio1.py
 
 ## Índice dos exercícios
+1. Exercício 1 - Crie duas variáveis com seu nome e sua idade. Exiba cada uma em uma linha.
