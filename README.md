@@ -20,3 +20,4 @@ Exemplo:
 
 ## Índice dos exercícios
 1. Exercício 1 - Crie duas variáveis com seu nome e sua idade. Exiba cada uma em uma linha.
+2. Exercício 2 - Peça dois números ao usuário e exiba a soma dos dois.
